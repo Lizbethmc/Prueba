@@ -6,3 +6,4 @@ Intro a GitHub
 
 ** Skills for woman in tech **
 
+# Agregué este comentario desde VSCode
